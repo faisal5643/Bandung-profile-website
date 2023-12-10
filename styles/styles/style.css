@@ -88,6 +88,10 @@ main {
   width: 75%;
 }
 
+.box {
+  box-sizing: content-box;
+}
+
 aside {
   float: right;
   width: 25%;
